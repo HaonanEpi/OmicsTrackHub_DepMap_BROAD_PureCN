@@ -2,4 +2,4 @@ hub OmicsAbsoluteCNSegments
 shortLabel OmicsCN
 longLabel Omics Absolute Copy Number Segments
 genomesFile genomes.txt
-email your_email@example.com
+email yanghn@shanghaitech.edu.cn
