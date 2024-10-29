@@ -1,5 +1,5 @@
 track multi_track_samples
-type bed
+type bed 12
 shortLabel Multi-Track Samples
 longLabel Multi-Track Samples Display
 visibility pack
