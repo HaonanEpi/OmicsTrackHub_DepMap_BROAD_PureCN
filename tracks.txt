@@ -3,4 +3,4 @@ type bed 9
 shortLabel Multi-Track Samples
 longLabel Multi-Track Samples Display
 visibility pack
-bigDataUrl https://raw.githubusercontent.com/username/repo/main/multi_track_OmicsAbsoluteCNSegmentsProfile_combined.bed
+bigDataUrl https://raw.githubusercontent.com/HaonanEpi/repo/main/multi_track_OmicsAbsoluteCNSegmentsProfile_combined.bed
